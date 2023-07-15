@@ -1,3 +1,4 @@
+import React from "react";
 import MovieHeader from "./components/MovieHeader";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import MovieList from "./components/MovieList";
