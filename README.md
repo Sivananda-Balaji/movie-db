@@ -14,20 +14,39 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `npm run serve`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Runs the app in the webpack development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.   
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `dist` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### Movie-DB Screenshots
+![new-releases-1](https://github.com/Sivananda-Balaji/movie-db/assets/121665946/f6c111a5-b024-4530-a1a0-cef8d5fe370a)
+
+![new-releases-2](https://github.com/Sivananda-Balaji/movie-db/assets/121665946/7163a6b7-5a5f-4f43-8045-36fd941072ab)
+
+![popular-movies-1](https://github.com/Sivananda-Balaji/movie-db/assets/121665946/8ca641df-3080-4eae-94bb-0cfe924f2d46)
+
+![popular-movies-2](https://github.com/Sivananda-Balaji/movie-db/assets/121665946/880affe6-aa0f-4097-a1e5-8106c95eefd8)
+
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run eject`
 
